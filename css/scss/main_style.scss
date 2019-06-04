@@ -107,7 +107,8 @@ section.two {
 			width:60%;
 			p.quote {
 				font-size: 2rem;
-				font-family: "Vollkorn Bold Italic";
+				font-family: "Rubik", sans-serif;
+				font-weight: 900;
 				text-align: center;
 				line-height: 1em;
 			}
@@ -150,7 +151,7 @@ section.three {
 		.content {
 			@include centre;
 			top:60vh;
-			font-family: "Vollkorn Italic";
+			font-family: "Rubik", sans-serif;
 			text-align: left;
 			width:65%;
 		}
@@ -179,7 +180,8 @@ section.three {
 				bottom:5vh;
 				right:2vh;
 				font-size: 0.7rem;
-				font-family: "Vollkorn Bold Italic";
+				font-family: "Rubik", sans-serif;
+				font-weight: 900;
 				color: rgba(40,69,26,1);
 			}
 		&:before {
@@ -242,7 +244,8 @@ section.four {
 			border:0px solid rgba(255,255,255,1);
 			border-radius: 5px;
 			padding:.4em;
-			font-family: "Vollkorn Bold Italic";
+			font-family: "Rubik", sans-serif;
+			font-weight: 900;
 			font-size: 0.8em;
 			&:hover {
 				background-color: rgba(219,255,186,1);
