@@ -191,7 +191,7 @@ html, body {
 h1 {
   font-size: 3.5rem;
   font-family: "Rubik", sans-serif;
-	font-weight: 900;
+	font-weight: 700;
   line-height: 1.2em;
   text-shadow: 0px 2px 0px white;
 }
@@ -199,7 +199,7 @@ h1 {
 h2 {
   font-size: 2.5rem;
   font-family: "Rubik", sans-serif;
-	font-weight: 900;
+	font-weight: 700;
   line-height: 1.2em;
   margin-bottom: 1rem;
 }
@@ -207,7 +207,7 @@ h2 {
 h3 {
   font-size: 2rem;
   font-family: "Rubik", sans-serif;
-	font-weight: 900;
+	font-weight: 700;
   line-height: 1.2em;
   margin-bottom: 1rem;
 }
@@ -215,7 +215,7 @@ h3 {
 h4 {
   font-size: 0.8em;
   font-family: "Rubik", sans-serif;
-	font-weight: 900;
+	font-weight: 700;
   line-height: 1rem;
   margin-bottom: 1rem;
 }
@@ -303,7 +303,7 @@ section.two .half.black .content {
 section.two .half.black .content p.quote {
   font-size: 2rem;
   font-family: "Rubik", sans-serif;
-	font-weight: 900;
+	font-weight: 700;
   text-align: center;
   line-height: 1em;
 }
@@ -359,7 +359,7 @@ section.three .half.green .content {
   transform: translate(-50%, -50%);
   top: 60vh;
   font-family: "Rubik", sans-serif;
-	font-weight: 900;
+	font-weight: 700;
   text-align: left;
   width: 65%;
 }
@@ -396,7 +396,7 @@ section.three .half.red p.hardtosee {
   right: 2vh;
   font-size: 0.7rem;
   font-family: "Rubik", sans-serif;
-	font-weight: 900;
+	font-weight: 700;
   color: #28451a;
 }
 section.three .half.red:before {
@@ -499,7 +499,7 @@ section.four .buttons button {
   border-radius: 5px;
   padding: .4em;
   font-family: "Rubik", sans-serif;
-	font-weight: 900;
+	font-weight: 700;
   font-size: 0.8em;
 }
 section.four .buttons button:hover {
