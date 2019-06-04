@@ -302,7 +302,8 @@ section.two .half.black .content {
 }
 section.two .half.black .content p.quote {
   font-size: 2rem;
-  font-family: "Vollkorn Bold Italic";
+  font-family: "Rubik", sans-serif;
+	font-weight: 900;
   text-align: center;
   line-height: 1em;
 }
@@ -357,7 +358,8 @@ section.three .half.green .content {
   -o-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   top: 60vh;
-  font-family: "Vollkorn Italic";
+  font-family: "Rubik", sans-serif;
+	font-weight: 900;
   text-align: left;
   width: 65%;
 }
@@ -393,7 +395,8 @@ section.three .half.red p.hardtosee {
   bottom: 5vh;
   right: 2vh;
   font-size: 0.7rem;
-  font-family: "Vollkorn Bold Italic";
+  font-family: "Rubik", sans-serif;
+	font-weight: 900;
   color: #28451a;
 }
 section.three .half.red:before {
@@ -495,7 +498,8 @@ section.four .buttons button {
   border: 0px solid white;
   border-radius: 5px;
   padding: .4em;
-  font-family: "Vollkorn Bold Italic";
+  font-family: "Rubik", sans-serif;
+	font-weight: 900;
   font-size: 0.8em;
 }
 section.four .buttons button:hover {
