@@ -46,7 +46,7 @@ h4 {
 p {
 	text-align: left;
 	font-size: 0.8em;
-	line-height: 1.3em;
+	line-height: 1.5em;
 	font-family: "Rubik", sans-serif;
 	margin-bottom: 1rem;
 }
@@ -152,6 +152,7 @@ section.three {
 			@include centre;
 			top:60vh;
 			font-family: "Rubik", sans-serif;
+			font-weight: 400;
 			text-align: left;
 			width:65%;
 		}
